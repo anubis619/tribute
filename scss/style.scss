@@ -1,0 +1,67 @@
+body {
+  color: black;
+  background-image: url('https://images3.alphacoders.com/247/247765.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.caption {
+  background: rgba(192, 192, 192, 0.5);
+}
+
+.photo {
+  float: left;
+  margin: 0 0 10px 10px;
+}
+
+.thumbnail {
+  background: rgba(0, 0, 0, 0);
+}
+
+h1 {
+  text-align: center;
+  font-family: Lobster;
+}
+
+
+h2 {
+  font-family: "Helvetica Neue", Helvetica;
+  text-align: center;
+  font-weight: bold;
+}
+
+.jumbotron {
+  background: rgba(192, 192, 192, 0.85);
+}
+
+.cright {
+  /*text-align: center; */
+  color: white;
+}
+
+h3 {
+  text-align: center;
+}
+
+/*
+figure {
+  display: table;
+}
+
+div.desc {
+  background-color: #000;
+  bottom: 0;
+  color: #fff;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  width: 100%;
+}
+
+.fix {
+  width: 100%;
+  padding: 0px;
+}
+
+*/
